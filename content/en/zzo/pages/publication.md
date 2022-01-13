@@ -14,7 +14,7 @@ I made a library to parse the `.bib`file to `md`file. Follow the steps below to 
 
 1. Install pip(The Python Package Installer) first.
 
-2. Install `zzo-bibtex-paresr` by typing this in your terminal.
+2. Install `zzo-bibtex-parser` by typing this in your terminal.
     ```
     pip install zzo-bibtex-parser==1.0.8
     ```
